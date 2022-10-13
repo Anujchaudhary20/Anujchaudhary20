@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anujchaudhary20
-- 👀 I’m interested in web development and digital marketing
-- 🌱 I’m currently learning Web and android Development
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning JAVA with React
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me through email anuj04004@gmail.com
 
