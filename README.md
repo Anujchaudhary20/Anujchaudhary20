@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Anuj Chaudhary
-- 👀 I’m interested in Web development
+- 👋 Hi, I’m Anuj Chaudhary Software Engineer at Capgemini.
+- 👀 I’m interested in Web development and microservices.
 - 🌱 I’m currently learning JAVA with Angular
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me through email anuj04004@gmail.com
